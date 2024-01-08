@@ -1,0 +1,576 @@
+** Drc report for /__w/knot/knot/Electrical/Design/PCBA-KNOT/PCBA-KNOT.kicad_pcb **
+** Created on 2024-01-08 10:35:19 **
+
+** Found 173 DRC violations **
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(122.0000 mm, 122.2500 mm): PCB Text 'GND' on F.Silkscreen
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(122.0000 mm, 122.2500 mm): PCB Text 'GND' on F.Silkscreen
+    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(123.2500 mm, 120.0000 mm): Arc on F.Silkscreen
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(118.7500 mm, 120.0000 mm): Arc on F.Silkscreen
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(111.2200 mm, 120.5050 mm): Line on F.Silkscreen
+    @(114.5964 mm, 120.6200 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(116.0000 mm, 120.5000 mm): PCB Text '3V GN GN T   R  ' on F.Silkscreen
+    @(110.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(116.0000 mm, 120.5000 mm): PCB Text '3V GN GN T   R  ' on F.Silkscreen
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(82.0000 mm, 70.0500 mm): Reference 'DC1'
+    @(76.7300 mm, 70.3500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(125.0000 mm, 128.7500 mm): Line on F.Silkscreen
+    @(120.0000 mm, 128.7500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 128.7500 mm): Line on F.Silkscreen
+    @(115.0000 mm, 128.7500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(110.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(121.0500 mm, 125.7000 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(74.8500 mm, 117.3400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(77.4300 mm, 117.3400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(79.9700 mm, 117.3400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(82.5100 mm, 117.3400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(123.5000 mm, 81.4000 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(79.4500 mm, 84.5500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(82.5900 mm, 84.5500 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(99.2500 mm, 77.3700 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(89.7500 mm, 77.3700 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(116.0500 mm, 125.7000 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(111.0500 mm, 125.7000 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(125.4700 mm, 85.3700 mm): Circle on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.5800 mm, 129.4200 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(88.7700 mm, 133.4800 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(89.9100 mm, 126.9900 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(89.9100 mm, 129.4200 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(110.5000 mm, 81.4000 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(115.2200 mm, 85.3700 mm): Circle on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(110.0000 mm, 99.5000 mm): PCB Text 'MIDI UART' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(107.5000 mm, 80.0000 mm): PCB Text 'MIDI OUTPUT' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(120.5000 mm, 80.0000 mm): PCB Text 'MIDI INPUT' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(122.0000 mm, 122.2500 mm): PCB Text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(109.7500 mm, 125.0000 mm): Value '5V' of TP2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(92.5000 mm, 72.0000 mm): Value '5V' of TP10
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(109.5000 mm, 123.0000 mm): Value 'G' of TP3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(98.7500 mm, 117.2500 mm): Value 'D-' of TP14
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(92.5000 mm, 74.0000 mm): Value 'D+' of TP12
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(122.5000 mm, 83.0500 mm): Value 'G' of TP18
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(105.5000 mm, 83.0500 mm): Value 'T' of TP19
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(108.0000 mm, 102.5500 mm): Value 'G' of TP6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(107.5000 mm, 83.0500 mm): Value 'R' of TP20
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(103.5000 mm, 117.2500 mm): Value 'G' of TP25
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(90.5000 mm, 83.5000 mm): Value 'V2' of TP23
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(108.5000 mm, 109.0000 mm): Value 'GND' of TP9
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(109.5000 mm, 83.0500 mm): Value 'G' of TP21
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(75.5000 mm, 83.5000 mm): Value 'V1' of TP22
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(96.5000 mm, 72.0000 mm): Value 'G' of TP13
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(96.0000 mm, 117.2500 mm): Value 'VBUS' of TP24
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(108.5000 mm, 111.0000 mm): Value 'UF2' of TP7
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(109.7500 mm, 127.0000 mm): Value 'DO' of TP1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(108.5000 mm, 113.0000 mm): Value 'ROM' of TP8
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(112.0000 mm, 102.5500 mm): Value 'TX' of TP4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(96.5000 mm, 74.0000 mm): Value 'D-' of TP11
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(118.5000 mm, 83.0500 mm): Value 'T' of TP16
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(120.5000 mm, 83.0500 mm): Value 'R' of TP17
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(101.2500 mm, 117.2500 mm): Value 'D+' of TP15
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(110.0000 mm, 102.5500 mm): Value 'RX' of TP5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(84.2500 mm, 104.0000 mm): Footprint R21
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 104.2500 mm): Footprint U4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(87.2500 mm, 111.0000 mm): Footprint C22
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 104.7500 mm): Footprint C9
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(119.0000 mm, 96.7500 mm): Footprint R16
+[lib_footprint_mismatch]: Footprint 'D_SMA' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(91.0000 mm, 111.5000 mm): Footprint D5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(122.5000 mm, 126.2500 mm): Footprint D1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(114.8000 mm, 107.0825 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 98.7500 mm): Footprint U3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(91.7500 mm, 115.7500 mm): Footprint C27
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(125.0000 mm, 126.2500 mm): Footprint C5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(87.2500 mm, 110.0000 mm): Footprint C20
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(115.0000 mm, 126.2500 mm): Footprint C3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 91.5000 mm): Footprint U14
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.0000 mm, 126.2500 mm): Footprint C4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(123.0000 mm, 96.7500 mm): Footprint C2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(79.0000 mm, 119.4000 mm): Footprint SW4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.0000 mm, 119.5000 mm): Footprint J3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 99.2500 mm): Footprint C7
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.7500 mm, 87.7500 mm): Footprint C14
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(112.7500 mm, 81.2500 mm): Footprint R14
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.7500 mm, 124.0000 mm): Footprint R9
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(94.4900 mm, 112.5000 mm): Footprint C25
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.7500 mm, 103.2500 mm): Footprint C24
+[lib_footprint_mismatch]: Footprint 'D_SMA' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(76.5000 mm, 100.0000 mm): Footprint D4
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 117.8675 mm): Footprint CN1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 94.0000 mm): Footprint R6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(98.7500 mm, 108.7500 mm): Footprint R19
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(95.0000 mm, 109.7500 mm): Footprint U16
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 96.0000 mm): Footprint U2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.5000 mm, 76.0000 mm): Footprint Audio2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(76.5000 mm, 87.0000 mm): Footprint Q1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(82.0000 mm, 79.0000 mm): Footprint DC1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(104.5000 mm, 101.0000 mm): Footprint R5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(96.4900 mm, 112.5000 mm): Footprint R23
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(94.5000 mm, 80.5000 mm): Footprint U7
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(88.7500 mm, 122.0000 mm): Footprint R1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(87.2500 mm, 108.2500 mm): Footprint FB1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(94.5000 mm, 74.2000 mm): Footprint J1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(88.0000 mm, 117.0000 mm): Footprint C26
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(110.5000 mm, 96.7500 mm): Footprint R17
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(88.7500 mm, 124.0000 mm): Footprint R8
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(84.2500 mm, 102.0000 mm): Footprint R22
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(93.7500 mm, 106.7500 mm): Footprint R2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(117.5000 mm, 126.2500 mm): Footprint D2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(121.0000 mm, 96.7500 mm): Footprint C1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(112.5000 mm, 126.2500 mm): Footprint D3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(94.0000 mm, 114.7500 mm): Footprint FB2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.0000 mm, 87.7500 mm): Footprint U10
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(75.7500 mm, 104.2500 mm): Footprint C21
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(97.5000 mm, 80.5000 mm): Footprint R11
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(86.7500 mm, 123.0000 mm): Footprint C11
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(120.5000 mm, 89.7500 mm): Footprint U12
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(87.5000 mm, 128.5000 mm): Footprint SW3
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(107.5000 mm, 76.0000 mm): Footprint Audio1
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 112.0000 mm): Footprint U6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 102.0000 mm): Footprint C8
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(102.2500 mm, 101.5000 mm): Footprint U5
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(80.5000 mm, 87.0000 mm): Footprint Q2
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(87.2500 mm, 114.0000 mm): Footprint U17
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(112.5000 mm, 96.7500 mm): Footprint R18
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(97.7500 mm, 108.7400 mm): Footprint R20
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(98.0000 mm, 84.0000 mm): Footprint C12
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(115.5000 mm, 76.0000 mm): Footprint U9
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(115.0000 mm, 96.7500 mm): Footprint C15
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(91.5000 mm, 80.5000 mm): Footprint R10
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(113.7500 mm, 81.2500 mm): Footprint R13
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(95.5000 mm, 90.1375 mm): Footprint U8
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(88.7500 mm, 123.0000 mm): Footprint C10
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(117.0000 mm, 96.7500 mm): Footprint C16
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(110.2500 mm, 89.7500 mm): Footprint U13
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.0000 mm, 84.7500 mm): Footprint U11
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(114.7500 mm, 121.0000 mm): Footprint R12
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(119.5000 mm, 82.7500 mm): Footprint R15
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 96.5000 mm): Footprint C6
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.7500 mm, 84.7500 mm): Footprint C13
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(103.2500 mm, 107.2500 mm): Footprint R7
+[lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
+    Local override; Severity: warning
+    @(100.0000 mm, 101.0000 mm): Footprint LOGO1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(74.0000 mm, 130.0000 mm): Line on Edge.Cuts
+    @(74.0000 mm, 70.5000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(126.0000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(126.0000 mm, 70.5000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(126.0000 mm, 130.0000 mm): Line on Edge.Cuts
+    @(122.5000 mm, 129.7500 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(93.2500 mm, 130.0000 mm): Line on Edge.Cuts
+    @(76.3000 mm, 125.9400 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(93.2500 mm, 130.0000 mm): Line on Edge.Cuts
+    @(81.7000 mm, 125.9400 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(106.7500 mm, 120.7500 mm): Line on Edge.Cuts
+    @(93.4600 mm, 120.7475 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(106.7500 mm, 120.7500 mm): Line on Edge.Cuts
+    @(94.6000 mm, 120.7175 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(106.7500 mm, 120.7500 mm): Line on Edge.Cuts
+    @(106.5500 mm, 120.7475 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(118.0000 mm, 70.4000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(123.0000 mm, 70.4000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(76.5000 mm, 82.5000 mm): Line on Edge.Cuts
+    @(76.7300 mm, 84.5500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(76.5000 mm, 82.5000 mm): Line on Edge.Cuts
+    @(87.0300 mm, 70.3500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(99.2500 mm, 77.3700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(89.7500 mm, 77.3700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(126.0000 mm, 130.0000 mm): Line on Edge.Cuts
+    @(117.5000 mm, 129.7500 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(126.0000 mm, 130.0000 mm): Line on Edge.Cuts
+    @(112.5000 mm, 129.7500 mm): Arc on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(93.2500 mm, 130.0000 mm): Line on Edge.Cuts
+    @(86.2200 mm, 129.4200 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(93.2500 mm, 130.0000 mm): Line on Edge.Cuts
+    @(88.7700 mm, 133.4800 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(105.0000 mm, 70.4000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(87.5000 mm, 70.0000 mm): Line on Edge.Cuts
+    @(110.0000 mm, 70.4000 mm): Line on F.Silkscreen
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.2500 mm, 104.2500 mm): Footprint U4
+    @(102.2500 mm, 101.5000 mm): Footprint U5
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.2500 mm, 98.7500 mm): Footprint U3
+    @(102.2500 mm, 96.0000 mm): Footprint U2
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(102.2500 mm, 98.7500 mm): Footprint U3
+    @(102.2500 mm, 101.5000 mm): Footprint U5
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(81.0000 mm, 101.0000 mm): Footprint U15
+    @(87.0000 mm, 95.7500 mm): Footprint C17
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(96.2500 mm, 102.5000 mm): Footprint SW1
+    @(93.7500 mm, 106.7500 mm): Footprint R2
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(110.4600 mm, 119.3750 mm): Footprint J2
+    @(114.7500 mm, 121.0000 mm): Footprint R12
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(76.5000 mm, 87.0000 mm): Footprint Q1
+    @(79.0000 mm, 92.2500 mm): Footprint C19
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(87.0000 mm, 95.7500 mm): Footprint C17
+    @(87.0000 mm, 88.7500 mm): Footprint C18
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(87.0000 mm, 95.7500 mm): Footprint C17
+    @(91.2500 mm, 102.5000 mm): Footprint SW2
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(87.0000 mm, 95.7500 mm): Footprint C17
+    @(79.0000 mm, 92.2500 mm): Footprint C19
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(93.7500 mm, 106.7500 mm): Footprint R2
+    @(91.2500 mm, 102.5000 mm): Footprint SW2
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(87.0000 mm, 88.7500 mm): Footprint C18
+    @(79.0000 mm, 92.2500 mm): Footprint C19
+[courtyards_overlap]: Courtyards overlap
+    Rule: board setup constraints courtyard; Severity: warning
+    @(80.5000 mm, 87.0000 mm): Footprint Q2
+    @(79.0000 mm, 92.2500 mm): Footprint C19
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
