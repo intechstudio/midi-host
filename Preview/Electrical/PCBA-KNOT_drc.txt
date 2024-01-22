@@ -1,5 +1,5 @@
 ** Drc report for /__w/knot/knot/Electrical/Design/PCBA-KNOT/PCBA-KNOT.kicad_pcb **
-** Created on 2024-01-22 08:38:06 **
+** Created on 2024-01-22 09:05:27 **
 
 ** Found 173 DRC violations **
 [silk_overlap]: Silkscreen overlap
