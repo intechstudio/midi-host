@@ -1,5 +1,5 @@
 ** Drc report for /__w/knot/knot/Electrical/Design/PCBA-KNOT/PCBA-KNOT.kicad_pcb **
-** Created on 2024-05-27 11:50:46 **
+** Created on 2024-05-28 07:15:41 **
 
 ** Found 175 DRC violations **
 [courtyards_overlap]: Courtyards overlap
@@ -518,11 +518,11 @@
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
     @(122.0000 mm, 122.2500 mm): PCB Text 'GND' on F.Silkscreen
-    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
     @(122.0000 mm, 122.2500 mm): PCB Text 'GND' on F.Silkscreen
-    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
     @(111.2200 mm, 120.5050 mm): Line on F.Silkscreen
@@ -537,23 +537,23 @@
     @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(123.2500 mm, 120.0000 mm): Arc on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
     @(125.0000 mm, 128.7500 mm): Line on F.Silkscreen
     @(120.0000 mm, 128.7500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
-    @(120.0000 mm, 128.7500 mm): Line on F.Silkscreen
-    @(115.0000 mm, 128.7500 mm): Line on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    Rule: board setup constraints silk; Severity: warning
     @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
-    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    Rule: board setup constraints silk; Severity: warning
-    @(118.7500 mm, 122.2500 mm): Line on F.Silkscreen
-    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    Rule: board setup constraints silk; Severity: warning
-    @(110.0000 mm, 122.2500 mm): Line on F.Silkscreen
     @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
@@ -561,16 +561,16 @@
     @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
 [silk_overlap]: Silkscreen overlap
     Rule: board setup constraints silk; Severity: warning
-    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
-    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    Rule: board setup constraints silk; Severity: warning
-    @(120.0000 mm, 122.2500 mm): Line on F.Silkscreen
-    @(123.2500 mm, 120.0000 mm): Arc on F.Silkscreen
-[silk_overlap]: Silkscreen overlap
-    Rule: board setup constraints silk; Severity: warning
     @(82.0000 mm, 70.0500 mm): Reference 'DC1'
     @(76.7300 mm, 70.3500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0000 mm, 128.7500 mm): Line on F.Silkscreen
+    @(120.0000 mm, 128.7500 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(115.0000 mm, 122.2500 mm): Line on F.Silkscreen
+    @(110.0000 mm, 122.2500 mm): Line on F.Silkscreen
 
 ** Found 0 unconnected pads **
 
