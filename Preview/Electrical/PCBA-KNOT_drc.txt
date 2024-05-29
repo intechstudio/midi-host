@@ -1,5 +1,5 @@
 ** Drc report for /__w/knot/knot/Electrical/Design/PCBA-KNOT/PCBA-KNOT.kicad_pcb **
-** Created on 2024-05-28 07:15:41 **
+** Created on 2024-05-29 13:27:28 **
 
 ** Found 175 DRC violations **
 [courtyards_overlap]: Courtyards overlap
