@@ -1,5 +1,5 @@
 ** Drc report for PCBA-KNOT.kicad_pcb **
-** Created on 2024-07-01T13:31:34+0000 **
+** Created on 2024-07-01T13:49:32+0000 **
 
 ** Found 193 DRC violations **
 [courtyards_overlap]: Courtyards overlap
