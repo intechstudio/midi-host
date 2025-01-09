@@ -1,7 +1,7 @@
 ** Drc report for PCBA-KNOT.kicad_pcb **
-** Created on 2024-07-01T14:09:52+0000 **
+** Created on 2025-01-09T14:35:39+0000 **
 
-** Found 193 DRC violations **
+** Found 186 DRC violations **
 [courtyards_overlap]: Courtyards overlap
     ; warning
     @(102.25 mm, 104.25 mm): Footprint U4
@@ -415,27 +415,6 @@
 [lib_footprint_issues]: The current configuration does not include the library 'suku_basics'.
     ; warning
     @(100.0 mm, 101.0 mm): Footprint LOGO1
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(108.0 mm, 123.0 mm): Footprint TP3
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(122.5 mm, 81.5 mm): Footprint TP18
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(108.0 mm, 101.0 mm): Footprint TP6
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(103.5 mm, 120.21625 mm): Footprint TP25
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(110.0 mm, 109.0 mm): Footprint TP9
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(109.5 mm, 81.5 mm): Footprint TP21
-[lib_footprint_mismatch]: Footprint 'TestPoint_THTPad_1.0x1.0mm_Drill0.5mm' does not match copy in library 'TestPoint'.
-    ; warning
-    @(95.5 mm, 72.0 mm): Footprint TP13
 [text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
     ; warning
     @(110.0 mm, 99.5 mm): PCB Text 'MIDI UART' on B.Silkscreen
