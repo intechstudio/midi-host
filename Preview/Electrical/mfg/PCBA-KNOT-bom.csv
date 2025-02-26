@@ -1,5 +1,5 @@
 "Qty","Designator","Part","Comment","Footprint"
-"2","Audio1,Audio2","PJ-320B","PJ-320B","AUDIO-SMD_PJ-320B"
+"2","Audio1,Audio2","PJ-320B","AUDIO-TH_PJ-3200","AUDIO-TH_PJ-3200"
 "1","C21","CAP","10n","CAP_0402"
 "15","C3,C4,C5,C6,C7,C8,C9,C11,C12,C13,C14,C15,C16,C26,C27","CAP","100n","CAP_0402"
 "2","C1,C22","CAP","1u","CAP_0402"
